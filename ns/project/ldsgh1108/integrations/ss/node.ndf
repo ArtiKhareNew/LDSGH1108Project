@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">Arti.Khare@ibm.com</value>
-    <value name="lastModifiedDate">2026-08-11T14:13:34.090637709Z</value>
+    <value name="lastModifiedDate">2026-08-11T14:13:44.378708897Z</value>
     <value name="displayName">ss</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -60,9 +60,9 @@
         </record>
         <Boolean name="isProjectPackage">false</Boolean>
         <record name="serviceName" javaclass="com.wm.util.Values">
-          <value name="description">loadXMLNode</value>
-          <value name="serviceName">XMLBuiltInServices:loadXMLNode</value>
-          <value name="displayName">loadXMLNode</value>
+          <value name="description">loadEnhancedXMLNode</value>
+          <value name="serviceName">XMLBuiltInServices:loadEnhancedXMLNode</value>
+          <value name="displayName">loadEnhancedXMLNode</value>
           <value name="assetType">Flow Service</value>
           <null name="nsName"/>
           <value name="itemType">flowService</value>
