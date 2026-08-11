@@ -14,6 +14,7 @@ packages:
   gitUsername: artikhare
   gitBranch: master
 - name: XMLBuiltInServices
+  version: "1.0"
   gitServerName: srcGithubCtrl_Arti
   gitUrl: https://github.com/ArtiKhareNew
   gitUsername: ArtiKhareNew
