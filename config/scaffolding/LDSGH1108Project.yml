@@ -13,12 +13,6 @@ packages:
   gitUrl: https://bitbucket.org/testartiibm
   gitUsername: artikhare
   gitBranch: master
-- name: XMLBuiltInServices
-  version: "1.0"
-  gitServerName: srcGithubCtrl_Arti
-  gitUrl: https://github.com/ArtiKhareNew
-  gitUsername: ArtiKhareNew
-  gitBranch: main
 services:
 - serviceName: project.ldsgh1108.integrations:bitbucketfs
   packages:
