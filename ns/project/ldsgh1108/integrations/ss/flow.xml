@@ -5,7 +5,7 @@
 
   <!-- nodes -->
 
-<INVOKE NAME="XMLBuiltInServices" SERVICE="XMLBuiltInServices:xmlFlexCascade">
+<INVOKE NAME="XMLBuiltInServices" SERVICE="XMLBuiltInServices:loadXMLNode">
   <COMMENT></COMMENT>
 </INVOKE>
 </FLOW>
