@@ -8,7 +8,12 @@ packages:
   gitUsername: ArtiKhareNew
   gitBranch: main
 - name: MultiplyPublicService
-  gitServerName: srcCtrl_bitbucket_Arti
+  gitServerName: srcCtrl_shared_bitbucket_Arti
   gitUrl: https://bitbucket.org/testartiibm
   gitUsername: artikhare
   gitBranch: master
+- name: XMLBuiltInServices
+  gitServerName: srcGithubCtrl_Arti
+  gitUrl: https://github.com/ArtiKhareNew
+  gitUsername: ArtiKhareNew
+  gitBranch: main
